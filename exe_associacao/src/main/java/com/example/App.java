@@ -1,4 +1,4 @@
-package com.example;
+/*package com.example;
 import com.example.Pessoa;
 import com.example.Veiculo;
 public class App {
@@ -7,4 +7,4 @@ public class App {
         Pessoa pessoa = new Pessoa();
         Veiculo veiculo = new Veiculo();
     }
-}
+}*/
