@@ -1,6 +1,7 @@
 /**
  * Representa uma pessoa com nome e idade.
  */
+package com.example;
 public class Pessoa {
 
     private String nome;
